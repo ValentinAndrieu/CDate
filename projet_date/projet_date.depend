@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617723458 source:c:\users\valen\desktop\bts 1ere année\pinaud c++\projet date\projet_date\cdate.cpp
+	"CDate.h"
+
+1617031186 c:\users\valen\desktop\bts 1ere année\pinaud c++\projet date\projet_date\cdate.h
+
+1617031586 source:c:\users\valen\desktop\bts 1ere année\pinaud c++\projet date\projet_date\main.cpp
+	"CDate.h"
+
+1617724678 source:c:\users\valen\desktop\bts 1ere année\pinaud c++\projet date\projet_date\test unitaire.cpp
+	<iostream>
+	"../projet_date/CDate.h"
+
