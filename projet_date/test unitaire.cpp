@@ -209,13 +209,11 @@ void test_sup()
 	// Comparer les deux dates avec > et afficher le résultat de la comparaison
 	if (d1 > d2)
     {
-        cout << "La 1ere date est la plus grande " << endl;
-        cout << "La 2eme est la plus petite " << endl;
+        cout << "La 1ere date n'est pas plus petite que la seconde" << endl;
     }
     else
     {
-        cout << "La 1ere date est la plus petite " << endl;
-        cout << "La 2eme est la plus grande " << endl;
+        cout << "La 1ere date est la plus petite" << endl;
     }
 }
 
@@ -246,16 +244,14 @@ void test_inf()
 	CDate d2(j,m,a,h,mn,s);
 
 
-	// Comparer les deux dates avec > et afficher le résultat de la comparaison
-	if (d1 > d2)
+	// Comparer les deux dates avec < et afficher le résultat de la comparaison
+	if (d1 < d2)
     {
-        cout << "La 1ere date est la plus grande " << endl;
-        cout << "La 2eme est la plus petite " << endl;
+        cout << "La 1ere date n'est pas plus petite que la seconde" << endl;
     }
     else
     {
-        cout << "La 1ere date est la plus petite " << endl;
-        cout << "La 2eme est la plus grande " << endl;
+        cout << "La 1ere date est la plus petite" << endl;
     }
 }
 

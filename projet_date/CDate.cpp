@@ -2,6 +2,7 @@
 // Rôle du fichier: code de la classe CDate
 // Nom des composants utilises: CDate.h
 // Nom programmeur: Valentin Andrieu
+// Version: 3.0
 /*************************************************/
 
 #include "CDate.h"
